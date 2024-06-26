@@ -1,0 +1,9 @@
+#total::before{
+  content: 'total: ';
+
+color: white;
+ 
+}
+#copy::before{
+    content: 'copy: ';
+}
